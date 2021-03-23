@@ -1,4 +1,4 @@
-# text_to_speechのサービスサーバー
+# text_to_speechのサービスサーバー(未完成)
 
 rosserviceの引数の入力の仕方がよくわからない。
 エラー内容:
